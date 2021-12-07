@@ -6,7 +6,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.ProgressBar//circulo que se va llenando
 import android.widget.TextView
-import androidx.lifecycle.lifecycleScope
+import androidx.lifecycle.lifecycleScope//funcion que junta las clases y la interface
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
